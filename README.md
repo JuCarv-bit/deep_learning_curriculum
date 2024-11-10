@@ -1,3 +1,7 @@
+# My Solutions for Deep Learnig Curriculum exercises
+
+As part of the program CondorXL, promoted for the Brazilian Condor Camp alumni, I completed and included at this repository the solutions for all the exercises of Deep Learning Curriculum, forked and described below.
+
 # Deep Learning Curriculum
 
 This is an advanced curriculum for getting up to speed with some of the latest developments in deep learning, as of July 2022. It is heavily biased towards my own research interests, especially large language model alignment, but it should be of general interest. It is targeted at people with a strong quantitative background who are familiar with the basics of deep learning, but may otherwise be new to the field.
@@ -17,8 +21,8 @@ Before studying deep learning, I recommend being comfortable with the very basic
 - **Calculus**: It's essential to understand differentiation and partial differentiation, and helpful to understand the basics of vector calculus including the chain rule and Taylor series.
 - **Programming**: I recommend getting to know Python and numpy.
 - Optional extras:
-    - **Statistics**: It's helpful to understand estimators and standard errors.
-    - **Information theory**: It's helpful to understand information, entropy and KL divergence.
+  - **Statistics**: It's helpful to understand estimators and standard errors.
+  - **Information theory**: It's helpful to understand information, entropy and KL divergence.
 
 You do not by any means need to understand the whole of these subjects in great depth in order to approach deep learning, but being very familiar with the basic ideas will make your life easier. The benefit of studying these subjects in depth is that you will gain this familiarity by thinking a lot about the relevant ideas.
 
@@ -89,8 +93,8 @@ An example of a larger programming project I worked on was training a neural net
 Some textbook suggestions:
 
 - [Goodfellow et al](https://www.deeplearningbook.org/) - Probably still the best deep learning-specific textbook, although it can be unclear in places. Has no exercises.
-- [Jared Kaplan's notes for physicists](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf) - An extended introduction to deep learning from a fairly theoretical perspective. Also has no exercises.
-- [Sutton & Barto](http://www.incompleteideas.net/book/the-book.html) - A good introduction to reinforcement learning from first principles. Has exercises.
+- [Jared Kaplan&#39;s notes for physicists](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf) - An extended introduction to deep learning from a fairly theoretical perspective. Also has no exercises.
+- [Sutton &amp; Barto](http://www.incompleteideas.net/book/the-book.html) - A good introduction to reinforcement learning from first principles. Has exercises.
 - [Murphy](https://www.google.com/search?q=machine+learning+a+probabilistic+perspective), [Bishop](https://www.google.com/search?q=pattern+recognition+and+machine+learning) and [ESL](https://www.google.com/search?q=elements+of+statistical+learning) - Classic machine learning textbooks. These cover a lot of material that isn't that relevant to deep learning, but it can be nice to have a broader perspective, and they have plenty of exercises. Overall they wouldn't be my first choice but they can be useful.
 
 Some suggestions for more advanced online courses:
@@ -111,4 +115,4 @@ Vertical integration can be powerful, because abstractions are generally leaky. 
 
 As an important special case of the above principle, if you want to have a positive impact on the world with your research, I highly recommend focusing on how best to achieve this as part of your studies. Choosing the right problems to work on can be just as important as the quality of your execution, even if you end up spending most of your time on the latter. Moreover, it's not always enough to defer to others on such questions, since your higher-level motivations will influence your lower-level decisions, not to mention the fact that other people can be wrong or hard to understand.
 
-I personally expect AI to have a far greater impact on the world in the coming decades than it is having now, and that this is enough to outweigh the urgency and tractability of present-day problems (though I also see a lot in common between both sets of problems). For more discussion of this perspective, I recommend [Cold Takes's "most important century" series](https://www.cold-takes.com/most-important-century/). There also used to be the [Alignment Newsletter](https://rohinshah.com/alignment-newsletter/), which was good for staying up-to-date with related research, but it hasn't been active in a while.
+I personally expect AI to have a far greater impact on the world in the coming decades than it is having now, and that this is enough to outweigh the urgency and tractability of present-day problems (though I also see a lot in common between both sets of problems). For more discussion of this perspective, I recommend [Cold Takes&#39;s &#34;most important century&#34; series](https://www.cold-takes.com/most-important-century/). There also used to be the [Alignment Newsletter](https://rohinshah.com/alignment-newsletter/), which was good for staying up-to-date with related research, but it hasn't been active in a while.
